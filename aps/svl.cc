@@ -4,11 +4,6 @@ LF:Leaf_VPN_Free@6127451
 LF:Leaf_VPN_Premium@3109452
 LF:Leaf_VPN_F-new@9053981
 LF:Leaf_VPN_P-new@3762962
-XR:UAE_General@9729001
-XR:UAE_Game@1969182
-XR:DE_General@4352103
-XR:DE_Game@9372514
-XR:uae-rl@3800071
 XR:MCI-Netherlands-Amsterdam@3305801
 XR:MCI-Japan-Osaka@2557492
 XR:MCI-United_States-Fremont@5191603
