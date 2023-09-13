@@ -339,6 +339,7 @@ proxies:
   - {name: ⚡️@DeamNet_🔻 🇬🇧United Kingdom 20, server: ak1757.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: ⚡️@DeamNet_🔻 🇬🇧United Kingdom 21, server: ak1757.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: ⚡️@DeamNet_🔻 🇬🇧United Kingdom 22, server: ak1757.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ⚡️@DeamNet_🔻 🇬🇧United Kingdom 23, server: ak1757.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
 proxy-groups:
   - name: 🔰 manual
     type: select
@@ -678,6 +679,7 @@ proxy-groups:
       - ⚡️@DeamNet_🔻 🇬🇧United Kingdom 20
       - ⚡️@DeamNet_🔻 🇬🇧United Kingdom 21
       - ⚡️@DeamNet_🔻 🇬🇧United Kingdom 22
+      - ⚡️@DeamNet_🔻 🇬🇧United Kingdom 23
   - name: ♻️ auto
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1017,6 +1019,7 @@ proxy-groups:
       - ⚡️@DeamNet_🔻 🇬🇧United Kingdom 20
       - ⚡️@DeamNet_🔻 🇬🇧United Kingdom 21
       - ⚡️@DeamNet_🔻 🇬🇧United Kingdom 22
+      - ⚡️@DeamNet_🔻 🇬🇧United Kingdom 23
 rules:
  - MATCH,🔰 manual
  - MATCH,♻️ auto
