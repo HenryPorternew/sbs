@@ -1,6 +1,9 @@
 DeamNet_sub@9662281
 Auto@980800582
 Auto-2@4745711
+LeafVPN-Free@3117481
+LeafVPN-Premium@7037132
+-----------------------------
 Bulgaria-Sofia@51813418
 Czechia-Prague@33336531
 Finland-Helsinki@212809110
