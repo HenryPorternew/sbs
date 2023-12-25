@@ -576,8 +576,7 @@ proxies:
   - {name: "@DeamNet_🇷🇺Russia", server: 62.113.114.116, port: 42320, type: ss, cipher: chacha20-ietf-poly1305, password: dhXDSrO3HnkhOZWxNOrvII, udp: true}
   - {name: "@DeamNet_🇸🇪Sweden", server: passconf.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 6BG3gG3lfpl11NE4yfsICx, udp: true}
   - {name: "@DeamNet_🇸🇪Sweden 2", server: beacomf.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: T1pb7XxxrolvPSb0u2xSOA, udp: true}
-  - {name: "@DeamNet_🇸🇬Singapore", server: 159.138.83.113, port: 40535, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: F93stneN17+CkEOPgizrAcDqZH85NRUl490kTSbffNw=, udp: true}
-  - {name: "@DeamNet_🇸🇬Singapore 2", server: 91.192.81.21, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1q7RNKaIk2wYO8fEPmEX0vWQ7Va+QRTA, udp: true}
+  - {name: "@DeamNet_🇸🇬Singapore", server: 91.192.81.21, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1q7RNKaIk2wYO8fEPmEX0vWQ7Va+QRTA, udp: true}
   - {name: "@DeamNet_🇸🇰Slovakia", server: 185.48.248.126, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: 0Iyt7NDqur37psJskYJtVYnzxvxwOsXFin56goc5GxutPViw, udp: true}
   - {name: "@DeamNet_🇹🇭Thailand", server: www.outline.network.ak1943.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: tishSySgdhfGGhn, udp: true}
   - {name: "@DeamNet_🇹🇷Turkey", server: 94.131.108.237, port: 46041, type: ss, cipher: chacha20-ietf-poly1305, password: cDewnplB4DhF7VjzDIdMFf, udp: true}
@@ -1274,7 +1273,6 @@ proxy-groups:
       - "@DeamNet_🇸🇪Sweden"
       - "@DeamNet_🇸🇪Sweden 2"
       - "@DeamNet_🇸🇬Singapore"
-      - "@DeamNet_🇸🇬Singapore 2"
       - "@DeamNet_🇸🇰Slovakia"
       - "@DeamNet_🇹🇭Thailand"
       - "@DeamNet_🇹🇷Turkey"
@@ -1971,7 +1969,6 @@ proxy-groups:
       - "@DeamNet_🇸🇪Sweden"
       - "@DeamNet_🇸🇪Sweden 2"
       - "@DeamNet_🇸🇬Singapore"
-      - "@DeamNet_🇸🇬Singapore 2"
       - "@DeamNet_🇸🇰Slovakia"
       - "@DeamNet_🇹🇭Thailand"
       - "@DeamNet_🇹🇷Turkey"
