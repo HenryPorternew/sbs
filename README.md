@@ -1,2 +1,1 @@
-# xbiscuit :(
-[@DeamNet](https://t.me/DeamNet)
+# [@DeamNet](https://t.me/DeamNet) temp sub
